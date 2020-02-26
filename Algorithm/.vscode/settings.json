@@ -1,0 +1,21 @@
+{
+    "git.ignoreLimitWarning": true,
+    "code-runner.runInTerminal": true,
+    
+    "vscode_custom_css.imports": [
+      "file:///Users/idestro/Desktop/synthwave84.css"
+      ],
+      "workbench.colorTheme": "Default Dark+",
+      "files.associations": {
+        "stack": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "map": "cpp",
+        "unistd.h": "c",
+        "utility": "cpp"
+      },
+      "C_Cpp.errorSquiggles": "Disabled"
+}
